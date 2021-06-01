@@ -1,0 +1,29 @@
+﻿Einheit;Kategorie;dena Referenz 2030;dena Referenz 2050;dena TM80 2030;dena TM80 2050;dena EL80 2030;dena EL80 2050;dena TM95 2050;dena EL95 2050;BDI Referenz 2030;BDI Referenz 2050;BDI 80% Klimapfad 2030;BDI 80% Klimapfad 2050;BDI 95% Klimapfad 2030;BDI 95% Klimapfad 2050
+Installierte Leistung [GW];Wind onshore;91;92;91;171;99;179;171;179;64;90;68;97;75;102
+Installierte Leistung [GW];Wind offshore;15;15;15;19;15;27;26;33;15;35;15;47;20;60
+Installierte Leistung [GW];PV;65;67;65;114;65;165;114;165;73;95;73;105;82;130
+Installierte Leistung [GW];Biomasse;8;10;8;10;8;10;10;10;;;;;;
+Installierte Leistung [GW];Wasserkraft;5;5;5;5;5;5;5;5;;;;;;
+Stromerzeugung [TWh/a];Gesamt;427;461;431;740;453;851;769;879;569;620;574;626;575;715
+Stromerzeugung [TWh/a];Wind onshore;237;256;241;494;262;493;471;494;129;194;136;208;150;215
+Stromerzeugung [TWh/a];Wind offshore;62;63;62;80;62;116;110;144;62;151;63;188;84;258
+Stromerzeugung [TWh/a];PV;62;69;62;116;62;168;116;168;70;90;70;100;74;114
+Stromerzeugung [TWh/a];Biomasse;42;49;46;49;42;49;49;49;47;20;42;33;42;27
+Stromerzeugung [TWh/a];Gas;3;17;;69;3;60;;36;;;;;;
+Stromerzeugung [TWh/a];Wasserkraft;24;24;24;24;24;24;24;24;21;21;21;21;21;21
+Stromverbrauch [TWh/a];Nettostromverbrauch;;;;;;;;;516;537;515;536;522;626
+Stromverbrauch [TWh/a];Bruttostromverbrauch;606;612;699;809;840;1150;837;1156;;;;;;
+Stromverbrauch [TWh/a];Haushalte;214;216;230;234;274;285;240;280;88;83;83;76;83;76
+Stromverbrauch [TWh/a];GHD;;;;;;;;;183;184;175;165;169;161
+Stromverbrauch [TWh/a];Industrie;284;275;271;248;354;532;239;539;229;220;204;173;204;197.2
+Stromverbrauch [TWh/a];Verkehr elektrisch;28;44;;86;;109;86;109;10;35;18;70;19;88
+Stromverbrauch [TWh/a];Wärme elektrisch;;;;;;;;;36;30;35;30;33;15
+Stromverbrauch [TWh/a];Wärme elektrisch;;;;;;;;;48;77;101;195;116;212
+Stromverbrauch [TWh/a];PtX;0;0;46;142;44;130;164;137;0;0;0;0;5;43
+Stromverbrauch [TWh/a];PtG;0;0;0;146;0;4;630;321;0;0;0;15;0;48
+Stromverbrauch [TWh/a];PtH;0;0;46;147;47;151;169;169;;;;;;
+Stromverbrauch [TWh/a];PtF;0;0;0;0;0;0;108;43;;;;;;
+Flexibilität [GW];Speicherleistung;8;11;9;15;9;18;15;18;7;9;8;16;16;30
+Flexibilität [GW];Demand Side Management;;;4;5.6;;;5.6;6.7;;2;;;2;2
+Flexibilität [GW];PtH;;;;;;;;;;6;;11;;15
+Kosten [Mrd EUR];Kosten Netzausbau Gesamt [Mrd EUR];23;24;29;32;31;41;32;42;;142;;184;;225
