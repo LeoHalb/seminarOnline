@@ -45,6 +45,7 @@ app = dash.Dash(__name__,
         )
 server = app.server
 
+<<<<<<< HEAD
 # -----------------------------------------------------------------------------------------------------------------------------
 # Layout
 
@@ -88,6 +89,14 @@ app.layout =  html.Div([
         sticky='top',
         color='rgb(43, 59, 67)',
         style={'color': 'white'}
+=======
+app.layout = html.Div([
+    html.H2('Hello World'),
+    dcc.Dropdown(
+        id='dropdown',
+        options=[{'label': i, 'value': i} for i in ['LA', 'NYC', 'MTL']],
+        value='LA'
+>>>>>>> parent of 906ca6f0 (Update app.py)
     ),
 
     html.Div([
