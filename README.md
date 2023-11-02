@@ -1,3 +1,3 @@
 https://analyse-energieversorgung.herokuapp.com/
 
-hosted with free heroku which means you will have to wait for it.
+heroku does not have a free tier anymore, so the site is offline :(
